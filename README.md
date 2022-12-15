@@ -1,3 +1,4 @@
 # class-code-examples
 
-- [accelerometer](./javascript/accelerometer/index.html)
+- [Accelerometer](./javascript/Accelerometer/index.html)
+- [Battery](./javascript/Battery/index.html)
