@@ -1,5 +1,3 @@
-# Examples
-
 ## JavaScript
 
 - [Accelerometer](./javascript/Accelerometer/index.html)
